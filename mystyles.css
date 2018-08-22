@@ -2,13 +2,22 @@ h1{
   
     color: red;
     font-family: "Times New Roman", Times, serif;
-    margin-right: 45px;
+    text-align: center;
 }
 
 h2 {
     color: blue;
     font-family: "Arial", Arial, serif;
-    margin-right: 85px;
+    text-align: right;
+  
+  
+}
+p {
+    color: yellow;
+    text-align: left;
+    font-family: courier;
+    font-size: 150%;
+  
   
   
 }
