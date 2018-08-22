@@ -35,6 +35,11 @@ body {
 .column.middle {
   width: 50%;
 }
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 
   
