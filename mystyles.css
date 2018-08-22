@@ -1,1 +1,19 @@
+h1{
+  
+    color: red;
+    font-family: "Times New Roman", Times, serif;
+    margin-right: 45px;
+}
 
+h2 {
+    color: blue;
+    font-family: "Arial", Arial, serif;
+    margin-right: 85px;
+  
+  
+}
+body {
+    background-color: green;
+}
+
+  
