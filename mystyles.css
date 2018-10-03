@@ -191,7 +191,7 @@ body {
     float: right;
     line-height: 32px;
     margin-bottom: 0;
-    padding-top: 0px;
+    padding-top: 10px;
   }
   
   nav ul li {
@@ -268,7 +268,7 @@ body {
     margin-top: 0;
     margin-bottom: 30px;
     text-transform: capitalize;
-    color: #fff;
+    color: red;
     font-weight: 500;
   }
   
@@ -475,6 +475,7 @@ body {
   
   .journal-block .journal-info img {
     max-width: 100%;
+    max-height: auto;
   }
   
   .journal-block .journal-info .journal-txt {
@@ -527,7 +528,7 @@ body {
   }
   
   .contact-details li {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
   }
   
   #contact input, #contact textarea {
